@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shopping-Ecommerce/static/css/main.db4b7f7b.css",
-    "main.js": "/Shopping-Ecommerce/static/js/main.8d70b619.js",
+    "main.js": "/Shopping-Ecommerce/static/js/main.64dd7cec.js",
     "static/css/432.3d1c58f1.chunk.css": "/Shopping-Ecommerce/static/css/432.3d1c58f1.chunk.css",
     "static/js/432.38a91b44.chunk.js": "/Shopping-Ecommerce/static/js/432.38a91b44.chunk.js",
     "static/css/520.d7b1f8b2.chunk.css": "/Shopping-Ecommerce/static/css/520.d7b1f8b2.chunk.css",
@@ -45,7 +45,7 @@
     "static/media/slick.woff": "/Shopping-Ecommerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Shopping-Ecommerce/index.html",
     "main.db4b7f7b.css.map": "/Shopping-Ecommerce/static/css/main.db4b7f7b.css.map",
-    "main.8d70b619.js.map": "/Shopping-Ecommerce/static/js/main.8d70b619.js.map",
+    "main.64dd7cec.js.map": "/Shopping-Ecommerce/static/js/main.64dd7cec.js.map",
     "432.3d1c58f1.chunk.css.map": "/Shopping-Ecommerce/static/css/432.3d1c58f1.chunk.css.map",
     "432.38a91b44.chunk.js.map": "/Shopping-Ecommerce/static/js/432.38a91b44.chunk.js.map",
     "520.d7b1f8b2.chunk.css.map": "/Shopping-Ecommerce/static/css/520.d7b1f8b2.chunk.css.map",
@@ -60,6 +60,6 @@
   },
   "entrypoints": [
     "static/css/main.db4b7f7b.css",
-    "static/js/main.8d70b619.js"
+    "static/js/main.64dd7cec.js"
   ]
 }
